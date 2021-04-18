@@ -1,9 +1,24 @@
-# Alienware-Opencore-Theme
-Alienware Opencore Theme 👽
+# Alienware-Opencore-Theme 
+Alienware Opencore Theme v1 👽
+![image](https://user-images.githubusercontent.com/23656651/115138425-a5904e80-a05e-11eb-90fe-90d0082d7dbd.png)
+操作指南： 仅适用于OC0.6.5 正式版及以上版本
+
+下载v2附件中Resources文件夹替换EFI/OC/同名文件夹；
+
+EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（截图快捷键驱动） 并在config.plist加载该驱动；
+
+替换oc文件夹下的resource文件夹，config-misc-boot-pickervariant-Auto
+
+Setup：
+Replace EFI > OC > Resources
+Misc > Boot > PickerVariant: Auto
+Misc > Boot > PickerAttribute: 17
+------------------------------------------------------------------------------------------------------------------
+Alienware Opencore Theme v1 👽
 ![rockjesus-octheme](https://user-images.githubusercontent.com/23656651/110778693-a2ef4c00-829d-11eb-8819-6869312ffd76.png)
 操作指南： 仅适用于OC0.6.5 正式版及以上版本
 
-下载此附件中Resources文件夹替换EFI/OC/同名文件夹；
+下载v1附件中Resources文件夹替换EFI/OC/同名文件夹；
 
 EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（截图快捷键驱动） 并在config.plist加载该驱动；
 
@@ -11,9 +26,7 @@ EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（截图快捷键驱动） 并
 
 Setup：
 Replace EFI > OC > Resources
-config.plist：
 Misc > Boot > PickerVariant: Modern
-Custom Icon Setup (Linux icon etc.)
 Misc > Boot > PickerAttribute: 17
 
 # Alienware 17 R4 长期维护 Long-term maintenance：https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh
