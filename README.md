@@ -1,5 +1,5 @@
 # Alienware-Opencore-Theme 
-Alienware Opencore Theme v1 👽
+Alienware Opencore Theme v2 👽
 ![image](https://user-images.githubusercontent.com/23656651/115138425-a5904e80-a05e-11eb-90fe-90d0082d7dbd.png)
 操作指南： 仅适用于OC0.6.5 正式版及以上版本
 
