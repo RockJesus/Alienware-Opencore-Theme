@@ -1,4 +1,21 @@
 # Alienware-Opencore-Theme 
+Alienware Opencore Theme v3 👽
+![image](https://user-images.githubusercontent.com/23656651/115138425-a5904e80-a05e-11eb-90fe-90d0082d7dbd.png)
+操作指南： 仅适用于OC0.6.5 正式版及以上版本
+
+下载v3附件中Resources文件夹替换EFI/OC/同名文件夹；
+
+EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（F10截图快捷键驱动） 并在config.plist加载该驱动；
+
+替换oc文件夹下的resource文件夹，config-misc-boot-pickervariant-RockJesus.cn\Alienware
+
+Setup：
+Replace EFI > OC > Resources
+Misc > Boot > PickerVariant: RockJesus.cn\Alienware
+Misc > Boot > PickerAttribute: 17
+
+PS：已上传 opencore configuratort theme downloader
+------------------------------------------------------------------------------------------------------------------
 Alienware Opencore Theme v2 👽
 ![image](https://user-images.githubusercontent.com/23656651/115138425-a5904e80-a05e-11eb-90fe-90d0082d7dbd.png)
 操作指南： 仅适用于OC0.6.5 正式版及以上版本
