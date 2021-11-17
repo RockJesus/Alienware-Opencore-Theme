@@ -3,7 +3,7 @@ Alienware Opencore Theme v3 👽
 ![image](https://user-images.githubusercontent.com/23656651/115138425-a5904e80-a05e-11eb-90fe-90d0082d7dbd.png)
 操作指南： 仅适用于OC0.6.5 正式版及以上版本
 
-下载v3附件中Resources文件夹替换EFI/OC/同名文件夹；
+下载[![download-badge](https://img.shields.io/github/downloads/RockJesus/Alienware-Opencore-Theme/total.svg?logo=DocuSign "Download status")](https://github.com/RockJesus/Alienware-Opencore-Theme/releases/latest "Download status")Resources文件夹替换EFI/OC/同名文件夹；
 
 EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（F10截图快捷键驱动） 并在config.plist加载该驱动；
 
